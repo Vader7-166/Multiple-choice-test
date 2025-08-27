@@ -1,0 +1,464 @@
+[
+  {
+    "question": "Mạng máy tính là mạng Internet?",
+    "options": ["Đúng", "Sai"],
+    "correct": 1,
+    "type": "single",
+    "category": "Tổng quan về MMT và Internet"
+  },
+  {
+    "question": "Thuật ngữ MAN là viết tắt của cụm từ nào?",
+    "options": ["Metropolitan Area Network", "Metropolitan Area Networking"],
+    "correct": 0,
+    "type": "single",
+    "category": "Tổng quan về MMT và Internet"
+  },
+  {
+    "question": "LAN là thuật ngữ dùng để chỉ các máy tính kết nối với nhau trong phạm vi hẹp (dạng như trong văn phòng hay toà nhà)",
+    "options": ["Đúng", "Sai"],
+    "correct": 0,
+    "type": "single",
+    "category": "Tổng quan về MMT và Internet"
+  },
+  {
+    "question": "Mạng Internet được hình thành từ sự kết nối của rất nhiều mạng, nhiều loại mạng khác nhau trên toàn thế giới.",
+    "options": ["Đúng", "Sai"],
+    "correct": 0,
+    "type": "single",
+    "category": "Tổng quan về MMT và Internet"
+  },
+  {
+    "question": "Các dạng mạng máy tính có cấu trúc liên kết (dạng như Bus, Star, Ring,…) được phân loại dựa trên hình dạng kết nối các thiết bị?",
+    "options": ["Đúng", "Sai"],
+    "correct": 0,
+    "type": "single",
+    "category": "Tổng quan về MMT và Internet"
+  },
+  {
+    "question": "Hub là một thiết bị đầu cuối.",
+    "options": ["Đúng", "Sai"],
+    "correct": 1,
+    "type": "single",
+    "category": "Tổng quan về MMT và Internet"
+  },
+  {
+    "question": "Thuật ngữ LAN (mạng cục bộ) là viết tắt của cụm từ nào?",
+    "options": ["Local Access Network", "Local Access Networking", "Local Area Network", "Local Area Networking"],
+    "correct": 2,
+    "type": "single",
+    "category": "Tổng quan về MMT và Internet"
+  },
+  {
+    "question": "Sự sắp xếp hình học của các thiết bị trên mạng được gọi là",
+    "options": ["Topology", "Protocols", "Network", "Medium"],
+    "correct": 0,
+    "type": "single",
+    "category": "Tổng quan về MMT và Internet"
+  },
+  {
+    "question": "Thuật ngữ IANA là viết tắt của?",
+    "options": ["Internet Assigned Numbers Authority", "Internal Assigned Numbers Authority", "Internet Associative Numbers Authoritative", "Internal Associative Numbers Authority"],
+    "correct": 0,
+    "type": "single",
+    "category": "Tổng quan về MMT và Internet"
+  },
+  {
+    "question": "Node là một tên khác của",
+    "options": ["Link", "Device", "Medium", "Mode"],
+    "correct": 1,
+    "type": "single",
+    "category": "Tổng quan về MMT và Internet"
+  },
+  {
+    "question": "Tên của mạng đầu tiên (tiền thân của Internet) là gì?",
+    "options": ["ASAPNET", "ARPANET", "CNNET", "NSFNET"],
+    "correct": 1,
+    "type": "single",
+    "category": "Tổng quan về MMT và Internet"
+  },
+  {
+    "question": "ISP là chữ viết tắt của?",
+    "options": ["International Service Provider", "International System Provider", "Internet Service Provider", "Internetwork System Provider"],
+    "correct": 2,
+    "type": "single",
+    "category": "Tổng quan về MMT và Internet"
+  },
+  {
+    "question": "Tổ chức nào sau đây KHÔNG phải là nhà cung cấp dịch vụ truy cập Internet tại Việt Nam?",
+    "options": ["Viettel", "FPT", "VNPT", "Vodaphone"],
+    "correct": 3,
+    "type": "single",
+    "category": "Tổng quan về MMT và Internet"
+  },
+  {
+    "question": "Hai máy tính khác nhau có thể truyền thông với nhau nếu (Chọn phát biểu phù hợp nhất)",
+    "options": ["Chúng cài đặt cùng hệ điều hành mạng", "Chúng cùng tuân thủ theo một mô hình", "Chúng cùng dùng một bộ giao thức", "Chúng có phần cứng giống nhau"],
+    "correct": 2,
+    "type": "single",
+    "category": "Tổng quan về MMT và Internet"
+  },
+  {
+    "question": "Các kiểu mạng LAN, MAN, WAN, GAN được phân biệt với nhau bởi tiêu chí nào dưới đây?",
+    "options": ["Khoảng cách địa lý", "Giao thức truyền thông", "Thiết bị mạng", "Đường truyền mạng"],
+    "correct": 0,
+    "type": "single",
+    "category": "Tổng quan về MMT và Internet"
+  },
+  {
+    "question": "Chọn các thành phần bên dưới là các thành phần chính của hệ thống mạng máy tính? (Chọn 3)",
+    "options": ["Thiết bị đầu cuối", "Thiết bị mạng", "Kết nối", "Thiết bị làm mát"],
+    "correct": [0, 1, 2],
+    "type": "multiple",
+    "category": "Tổng quan về MMT và Internet"
+  },
+  {
+    "question": "Kiến trúc mô hình phân cấp 3 lớp truyền thống gồm có lớp nào? (Chọn 3)",
+    "options": ["Core", "Boder", "Aggregation", "Access"],
+    "correct": [0, 2, 3],
+    "type": "multiple",
+    "category": "Tổng quan về MMT và Internet"
+  },
+  {
+    "question": "Kết nối nào dưới đây là loại có dây – Wired (Chọn 3)",
+    "options": ["Ethernet", "Fiber Optic", "Copper Cable", "Satellite"],
+    "correct": [0, 1, 2],
+    "type": "multiple",
+    "category": "Tổng quan về MMT và Internet"
+  },
+  {
+    "question": "Những loại nào dưới đây là topology của một mạng LAN? (Chọn 3)",
+    "options": ["Square", "Bus", "Ring", "Star"],
+    "correct": [1, 2, 3],
+    "type": "multiple",
+    "category": "Tổng quan về MMT và Internet"
+  },
+  {
+    "question": "Các chức năng nào dưới đây nằm trong Hệ sinh thái Internet? (Chọn 3)",
+    "options": ["Phát triển tiêu chuẩn mở", "Xây dựng hệ thống năng lực toàn cầu", "Đặt tên và địa chỉ", "Dịch vụ và hoạt động chia sẻ toàn cầu"],
+    "correct": [0, 2, 3],
+    "type": "multiple",
+    "category": "Tổng quan về MMT và Internet"
+  },
+  {
+    "question": "ISO là từ viết tắt của International Standard Organization?",
+    "options": ["Đúng", "Sai"],
+    "correct": 1,
+    "type": "single",
+    "category": "Mô hình tham chiếu OSI"
+  },
+  {
+    "question": "Trong mô hình OSI, tầng Network có thể thông tin trực tiếp với các tầng Datalink và Transport trong cùng một thiết bị",
+    "options": ["Đúng", "Sai"],
+    "correct": 0,
+    "type": "single",
+    "category": "Mô hình tham chiếu OSI"
+  },
+  {
+    "question": "Mô hình tham chiếu OSI được định nghĩa trong ISO/IEC 7498-1?",
+    "options": ["Đúng", "Sai"],
+    "correct": 0,
+    "type": "single",
+    "category": "Mô hình tham chiếu OSI"
+  },
+  {
+    "question": "Trong hệ sinh thái Internet, VNNIC là NIR-National Internet Registry của Việt Nam?",
+    "options": ["Đúng", "Sai"],
+    "correct": 0,
+    "type": "single",
+    "category": "Mô hình tham chiếu OSI"
+  },
+  {
+    "question": "Mô hình OSI có mấy tầng?",
+    "options": ["4 tầng", "5 tầng", "6 tầng", "7 tầng"],
+    "correct": 3,
+    "type": "single",
+    "category": "Mô hình tham chiếu OSI"
+  },
+  {
+    "question": "Thuật ngữ ISO là từ viết tắt của",
+    "options": ["International Organize for Standardization", "International Organizations for Standardization", "International Organizations for Standard", "International Organized for Standardization"],
+    "correct": 1,
+    "type": "single",
+    "category": "Mô hình tham chiếu OSI"
+  },
+  {
+    "question": "Mô hình OSI được công nhận vào năm nào?",
+    "options": ["1980", "1982", "1984", "1986"],
+    "correct": 2,
+    "type": "single",
+    "category": "Mô hình tham chiếu OSI"
+  },
+  {
+    "question": "Tầng nào trong mô hình OSI làm việc với các tín hiệu điện",
+    "options": ["Data Link", "Network", "Physical", "Session"],
+    "correct": 2,
+    "type": "single",
+    "category": "Mô hình tham chiếu OSI"
+  },
+  {
+    "question": "Thứ tự (từ trên xuống) của các tầng trong mô hình OSI là?",
+    "options": ["Application, Presentation, Session, Transport, Data Link, Network, Physical", "Application, Presentation, Session, Network, Transport, Data Link, Physical", "Application, Presentation, Session, Transport, Network, Data Link, Physical", "Application, Presentation, Transport, Session, Data Link, Network, Physical"],
+    "correct": 2,
+    "type": "single",
+    "category": "Mô hình tham chiếu OSI"
+  },
+  {
+    "question": "Chức năng của thiết bị Hub thông thường nằm ở tầng nào trong mô hình OSI?",
+    "options": ["Tầng 1", "Tầng 2", "Tầng 3", "Tầng 4"],
+    "correct": 0,
+    "type": "single",
+    "category": "Mô hình tham chiếu OSI"
+  },
+  {
+    "question": "Chức năng của thiết bị Switch thông thường nằm ở tầng nào trong mô hình OSI?",
+    "options": ["Tầng 1", "Tầng 2", "Tầng 3", "Tầng 4"],
+    "correct": 1,
+    "type": "single",
+    "category": "Mô hình tham chiếu OSI"
+  },
+  {
+    "question": "Các tầng nào dưới đây nằm trong mô hình tham chiếu OSI. (Chọn 3)",
+    "options": ["Tầng Data Link", "Tầng Application", "Tầng Internet", "Tầng Session"],
+    "correct": [0, 1, 3],
+    "type": "multiple",
+    "category": "Mô hình tham chiếu OSI"
+  },
+  {
+    "question": "Tầng vận chuyển trong mô hình OSI thực hiện chức năng nào dưới đây. (Chọn 3)",
+    "options": ["Kết nối End-to-End", "Kiểm soát lỗi", "Đồng bộ hoá", "Kiểm soát luồng dữ liệu"],
+    "correct": [0, 1, 3],
+    "type": "multiple",
+    "category": "Mô hình tham chiếu OSI"
+  },
+  {
+    "question": "Các tầng nào dưới đây trong mô hình OSI KHÔNG thực hiện việc tạo khung? (Chọn 3)",
+    "options": ["Tầng Ứng dụng", "Tầng Phiên", "Tầng Mạng", "Tầng Liên kết"],
+    "correct": [0, 1, 2],
+    "type": "multiple",
+    "category": "Mô hình tham chiếu OSI"
+  },
+  {
+    "question": "Trong mô hình TCP/IP, nó chia hoạt động truyền thông mạng thành 7 tầng",
+    "options": ["Đúng", "Sai"],
+    "correct": 1,
+    "type": "single",
+    "category": "Mô hình TCP/IP"
+  },
+  {
+    "question": "Trong mô hình TCP/IP, Data là đơn vị dữ liệu giao thức tầng Ứng dụng.",
+    "options": ["Đúng", "Sai"],
+    "correct": 0,
+    "type": "single",
+    "category": "Mô hình TCP/IP"
+  },
+  {
+    "question": "Quá trình mở gói trong mô hình TCP/IP là quá trình loại bỏ thông tin bổ sung khi nó chuyển lên lớp trên.",
+    "options": ["Đúng", "Sai"],
+    "correct": 0,
+    "type": "single",
+    "category": "Mô hình TCP/IP"
+  },
+  {
+    "question": "Thứ tự (từ trên xuống) của các tầng trong mô hình TCP/IP là?",
+    "options": ["Application – Internet – Transport – Network Access", "Internet – Network Access – Transport – Application", "Transport – Internet – Network Access – Application", "Application – Transport – Internet – Network Access"],
+    "correct": 3,
+    "type": "single",
+    "category": "Mô hình TCP/IP"
+  },
+  {
+    "question": "Mô hình TCP/IP tương đương có mấy lớp?",
+    "options": ["4", "5", "6", "7"],
+    "correct": 1,
+    "type": "single",
+    "category": "Mô hình TCP/IP"
+  },
+  {
+    "question": "Thứ tự (từ trên xuống) của các lớp trong mô hình TCP/IP là?",
+    "options": ["Lớp ứng dụng - Lớp vận chuyển - Lớp liên kết dữ liệu - Lớp Network - Lớp vật lý", "Lớp ứng dụng - Lớp Network - Lớp vận chuyển - Lớp liên kết dữ liệu - Lớp vật lý", "Lớp ứng dụng - Lớp vận chuyển - Lớp Network - Lớp liên kết dữ liệu - Lớp vật lý", "Lớp ứng dụng - Lớp liên kết dữ liệu - Lớp Network - Lớp vận chuyển - Lớp vật lý"],
+    "correct": 2,
+    "type": "single",
+    "category": "Mô hình TCP/IP"
+  },
+  {
+    "question": "Thứ tự đúng của các đơn vị dữ liệu trong mô hình TCP/IP tương đương là?",
+    "options": ["Data, Frame, Segment, Packet, Bit", "Data, Segment, Frame, Packet, Bit", "Data, Packet, Frame, Segment, Bit", "Data, Segment, Packet, Frame, Bit"],
+    "correct": 3,
+    "type": "single",
+    "category": "Mô hình TCP/IP"
+  },
+  {
+    "question": "Giao thức nào dưới đây nằm ở tầng Internet trong mô hình TCP/IP",
+    "options": ["SLAAC", "TFTP", "OSPF", "UDP"],
+    "correct": 2,
+    "type": "single",
+    "category": "Mô hình TCP/IP"
+  },
+  {
+    "question": "Giao thức nào dưới đây dùng cho ứng dụng, dịch vụ Web",
+    "options": ["DNS", "DHCP", "SFTP", "REST"],
+    "correct": 3,
+    "type": "single",
+    "category": "Mô hình TCP/IP"
+  },
+  {
+    "question": "Đơn vị dữ liệu giao thức (PDU) của tầng Giao vận là",
+    "options": ["Data", "Bits", "Segment", "Packet"],
+    "correct": 2,
+    "type": "single",
+    "category": "Mô hình TCP/IP"
+  },
+  {
+    "question": "Giao thức nào dưới đây dùng cho ứng dụng Email",
+    "options": ["POP3", "Frame Relay", "ARP", "ATM"],
+    "correct": 0,
+    "type": "single",
+    "category": "Mô hình TCP/IP"
+  },
+  {
+    "question": "Để đảm bảo dữ liệu được gửi tới đúng đích, việc xác định địa chỉ dữ liệu được thực hiện ở ba lớp nào dưới đây trong mô hình TCP/IP? (Chọn 3)",
+    "options": ["Lớp liên kết dữ liệu", "Lớp Internet", "Lớp Giao vận", "Lớp Ứng dụng"],
+    "correct": [0, 1, 2],
+    "type": "multiple",
+    "category": "Mô hình TCP/IP"
+  },
+  {
+    "question": "Các tầng nào dưới đây nằm trong mô hình TCP/IP? (Chọn 3)",
+    "options": ["Tầng Internet", "Tầng Network Access", "Tầng Datalink", "Tầng Application"],
+    "correct": [0, 1, 3],
+    "type": "multiple",
+    "category": "Mô hình TCP/IP"
+  },
+  {
+    "question": "Giao thức nào dưới đây nằm ở tầng Ứng dụng trong mô hình TCP/IP? (Chọn 3)",
+    "options": ["RIP", "HTTP", "TFTP", "NAT"],
+    "correct": [1, 2, 3],
+    "type": "multiple",
+    "category": "Mô hình TCP/IP"
+  },
+  {
+    "question": "Giao thức nào dưới đây KHÔNG nằm ở tầng Vận chuyển trong mô hình TCP/IP? (Chọn 3)",
+    "options": ["DNS", "DHCP", "SMTP", "TCP"],
+    "correct": [0, 1, 2],
+    "type": "multiple",
+    "category": "Mô hình TCP/IP"
+  },
+  {
+    "question": "Chuyển đổi khung thành tín hiệu (quang, điện hoặc điện từ) dựa trên môi trường truyền là một trong những chức năng của tầng Vật lý?",
+    "options": ["Đúng", "Sai"],
+    "correct": 0,
+    "type": "single",
+    "category": "Tầng vật lý"
+  },
+  {
+    "question": "Coaxial là một loại cáp dùng trong truyền thông mạng máy tính",
+    "options": ["Đúng", "Sai"],
+    "correct": 0,
+    "type": "single",
+    "category": "Tầng vật lý"
+  },
+  {
+    "question": "Cáp đồng trục trong tầng vật lý của mô hình truyền thông có hai loại",
+    "options": ["Đúng", "Sai"],
+    "correct": 0,
+    "type": "single",
+    "category": "Tầng vật lý"
+  },
+  {
+    "question": "Cáp xoắn có vỏ bọc chống nhiễu là UTP?",
+    "options": ["Đúng", "Sai"],
+    "correct": 1,
+    "type": "single",
+    "category": "Tầng vật lý"
+  },
+  {
+    "question": "https://i-speed.vn là một link truy cập công cụ đo kiểm chất lượng mạng?",
+    "options": ["Đúng", "Sai"],
+    "correct": 0,
+    "type": "single",
+    "category": "Tầng vật lý"
+  },
+  {
+    "question": "Thông lượng (throughput) là",
+    "options": ["Tốc độ truyền dữ liệu trên đường truyền", "Độ đo phạm vi tần số mà đường truyền có thể đáp ứng được", "Độ đo sự yếu đi của tín hiệu trên đường truyền", "Độ đo sự ảnh hưởng của tiếng ồn điện từ bên ngoài đến tín hiệu đường truyền"],
+    "correct": 0,
+    "type": "single",
+    "category": "Tầng vật lý"
+  },
+  {
+    "question": "Phương thức giao tiếp trong đó việc truyền dữ liệu diễn ra theo cả hai hướng nhưng tại một thời điểm chỉ có một hướng được truyền dữ liệu, gọi là",
+    "options": ["Simplex", "Four-wire circuit", "Half-duplex", "Full duplex"],
+    "correct": 2,
+    "type": "single",
+    "category": "Tầng vật lý"
+  },
+  {
+    "question": "Tốc độ truyền dữ liệu tối đa của kết nối Gigabit Ethernet là bao nhiêu?",
+    "options": ["10 Mbps", "100 Mbps", "1 Gbps", "10 Gbps"],
+    "correct": 2,
+    "type": "single",
+    "category": "Tầng vật lý"
+  },
+  {
+    "question": "Các loại cáp nào dưới đây là cáp đồng trục dùng ở tầng vật lý trong mô hình truyền thông?",
+    "options": ["Bignet và Smallnet", "Thicknet và Thinnet", "Bignet và Thicknet", "Thinnet và Smallnet"],
+    "correct": 1,
+    "type": "single",
+    "category": "Tầng vật lý"
+  },
+  {
+    "question": "Loại cáp nào dưới đây là cáp quang dùng ở tầng vật lý trong mô hình truyền thông?",
+    "options": ["Multi-Mode", "Private-Mode", "Privileged-Mode", "Public-Mode"],
+    "correct": 0,
+    "type": "single",
+    "category": "Tầng vật lý"
+  },
+  {
+    "question": "Thuật ngữ IEEE là từ viết tắt của",
+    "options": ["Institute for Electrical and Electronic Engineers", "Institute for Electrical and Electronic Engineer", "Institute for Electrical and Electronic Engineering", "Institute for Electrical and Electronic Engineeres"],
+    "correct": 0,
+    "type": "single",
+    "category": "Tầng vật lý"
+  },
+  {
+    "question": "Cáp xoắn có vỏ bọc chống nhiễu (STP) là",
+    "options": ["Shield Twisted Pair", "Shielded Twist Pair", "Shield Twist Pair", "Shielded Twisted Pair"],
+    "correct": 3,
+    "type": "single",
+    "category": "Tầng vật lý"
+  },
+  {
+    "question": "Chuẩn nào dưới đây KHÔNG phải là một loại chuẩn cáp mạng?",
+    "options": ["Category 5", "Category 6", "Category 7", "Category 11"],
+    "correct": 3,
+    "type": "single",
+    "category": "Tầng vật lý"
+  },
+  {
+    "question": "Loại kết nối nào dưới đây là kết nối không dây tầm xa?",
+    "options": ["ZigBee", "Satellite", "RFID", "WiMax"],
+    "correct": 1,
+    "type": "single",
+    "category": "Tầng vật lý"
+  },
+  {
+    "question": "Tầng Vật Lý (Physical Layer) làm nhiệm vụ nào dưới đây. (Chọn 3)",
+    "options": ["Truyền luồng bit qua môi trường vật lý.", "Tiêu chuẩn hoá các chức năng tầng vật lý như cáp, volt, giao diện", "Chỉ truyền đi các tín hiệu điện từ qua các dây cáp mạng.", "Việc truyền dữ liệu được thực hiện bởi hệ thống có dây hoặc không dây"],
+    "correct": [0, 1, 3],
+    "type": "multiple",
+    "category": "Tầng vật lý"
+  },
+  {
+    "question": "Loại kết nối nào dưới đây là kết nối không dây tầm ngắn? (Chọn 3)",
+    "options": ["RFID", "Wifi", "Bluetooth", "ZigBee"],
+    "correct": [0, 2, 3],
+    "type": "multiple",
+    "category": "Tầng vật lý"
+  },
+  {
+    "question": "Các yếu tố nào dưới đây ảnh hưởng tới tốc độ truyền luồng bits? (Chọn 3)",
+    "options": ["Mã hóa", "Suy hao", "Băng thông", "Khung"],
+    "correct": [0, 1, 2],
+    "type": "multiple",
+    "category": "Tầng vật lý"
+  }
+]
